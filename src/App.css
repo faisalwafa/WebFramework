@@ -1,7 +1,38 @@
+html,
+body {
+  height: 100%;
+}
 .App {
-  text-align: center;
+  font-family: "Roboto";
 }
 
+hr {
+  border: 1px solid #ff9e22;
+}
+.text-left {
+  text-align: left !important;
+}
+#title {
+  color: #2980b9;
+  font-weight: bold;
+}
+#yellow {
+  color: #ff9e22;
+}
+#dark-blue {
+  color: #2c3e50;
+}
+#content {
+  margin-bottom: 3em;
+  color: #2c3e50;
+}
+#bold {
+  font-weight: bold;
+}
+
+.text-center {
+  text-align: center !important;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
