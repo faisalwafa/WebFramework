@@ -6,7 +6,6 @@ class Mahasiswa extends Component {
   state = {
     listMahasiswa: [],
     insertMahasiswa: {
-      id: 1,
       NIM: "",
       nama: "",
       alamat: "",
