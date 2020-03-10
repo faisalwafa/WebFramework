@@ -15,6 +15,15 @@
       "hp": "081802023523",
       "angkatan": 2014,
       "status": "lulus"
+    },
+    {
+      "NIM": "1741720028",
+      "nama": "Faisal Wafa",
+      "alamat": "Jl. Bromo",
+      "hp": "089633781442",
+      "angkatan": "17",
+      "status": "Aktif",
+      "id": 1583823109571
     }
   ]
 }
